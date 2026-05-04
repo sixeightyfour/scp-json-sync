@@ -36,4 +36,4 @@ This includes:
 
 ## Attribution:
 
-This work was made possible using the [scp-crawler repository](https://github.com/scp-data/scp_crawler). This data is freely available for use with attribution under the Creative Commons 3.0 ShareAlike License.
+This work was made possible using the [scp-crawler repository](https://github.com/scp-data/scp_crawler). This data is freely available for use with attribution under the Creative Commons 4.0 ShareAlike License.
